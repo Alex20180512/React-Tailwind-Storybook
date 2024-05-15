@@ -2,6 +2,6 @@
 
 - [x] Vite
 - [x] Tailwind
-- [ ] Storybook
+- [x] Storybook
 - [ ] PWA
 - [ ] Router
