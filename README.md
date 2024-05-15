@@ -1,1 +1,5 @@
-# React + Tailwind + Storybook
+# Technology Stack
+
+- Vite
+- Tailwind
+- Storybook
