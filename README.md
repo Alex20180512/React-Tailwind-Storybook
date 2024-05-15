@@ -1,5 +1,7 @@
 # Technology Stack
 
-- Vite
-- Tailwind
-- Storybook
+- [x] Vite
+- [x] Tailwind
+- [ ] Storybook
+- [ ] PWA
+- [ ] Router
